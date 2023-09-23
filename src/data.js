@@ -8,20 +8,20 @@ export const projects = [
     link: "https://thegreenphoenix.itch.io/ff",
   },
   {
-    title: "Client Server App",
-    subtitle: "Python, Flask, Poltly",
-    description:
-      "Created ",
-    image: "./project-2.gif",
-    link: "https://github.com/shinjin-santhakumar/Client-Server-App",
-  },
-  {
     title: "Sketch",
     subtitle: "Unity, C#, Game development",
     description:
       "Co-created a game at the UCR game development club, Gamespawn, where we worked on the project for 2 quraters and eventually published the game to the popular video game distribution service, Steam.",
     image: "./project-3.gif",
     link: "https://store.steampowered.com/app/1943220/Sketch/",
+  },
+  {
+    title: "Client Server App",
+    subtitle: "Python, Flask, Poltly",
+    description:
+      "Used Flask to host a web app that uses a kickstarter dataset to create analytics to feature highlights and important characteristics of successful kickstarter campaigns",
+    image: "./project-2.gif",
+    link: "https://github.com/shinjin-santhakumar/Client-Server-App",
   },
   {
     title: "Terminal Chess Game",
