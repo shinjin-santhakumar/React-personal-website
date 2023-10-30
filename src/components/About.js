@@ -9,9 +9,9 @@ export default function About() {
                 Hi, I'm Shinjin.
                 <br className="hidden lg:inline-block" />I love building games and apps.
               </h1>
-              <p className="mb-8 leading-relaxed">
-                I have a Bacherlors of Science in Computer Science from University of California, Riverside. I have internship experience as a software engineer. I am open to Software Developer/Engineer, Game Development, and QA Roles
-              </p>
+              {/* <p className="mb-8 leading-relaxed">
+                 
+              </p> */}
               <div className="flex justify-center">
                 <a
                   href="#contact"
