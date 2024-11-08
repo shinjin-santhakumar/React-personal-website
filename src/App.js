@@ -4,6 +4,7 @@ import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
+import PDFViewer from "./components/Resume";
 //import Testimonials from "./components/Testimonials";
 
 export default function App() {
@@ -15,5 +16,6 @@ export default function App() {
       <Skills />
       <Contact />
     </main>
+    
   );
 }

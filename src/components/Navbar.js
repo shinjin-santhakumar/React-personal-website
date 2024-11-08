@@ -17,6 +17,9 @@ export default function Navbar() {
           <a href="#skills" className="mr-5 hover:text-white">
             Skills
           </a>
+          <a href = {"/ShinjinSanthakumarResume.pdf"}>
+            Resume
+          </a>
         </nav>
         <a
           href="#contact"
@@ -24,6 +27,7 @@ export default function Navbar() {
           Contact Me
           <ArrowRightIcon className="w-4 h-4 ml-1" />
         </a>
+
       </div>
     </header>
   );
